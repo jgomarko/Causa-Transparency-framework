@@ -1,4 +1,3 @@
-[Causal Transparency Framework (CTF).md](https://github.com/user-attachments/files/23882301/Causal.Transparency.Framework.CTF.md)
 # Causal Transparency Framework (CTF)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
