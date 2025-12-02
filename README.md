@@ -88,10 +88,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you use this framework in your research, please cite our paper:
 
 ```
-[@article{marko2025fairpath,
+@article{marko2025fairpath,
   title={The Causal Transparency Framework: A Multi-Metric Approach to Algorithmic Accountability},
   author={Marko, John Gabriel O. and Neagu, Ciprian Daniel and Anand, P.B},
   journal={},
   year={2025}
-}]
+}
 ```
